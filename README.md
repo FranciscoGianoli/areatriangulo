@@ -1,0 +1,2 @@
+# areatriangulo
+Created with CodeSandbox
